@@ -18,8 +18,6 @@ public class MainActivity extends Activity {
 		getMenuInflater().inflate(R.menu.main, menu);
 		System.out.println("Hello");
 		System.out.println("Hello");
-		System.out.println("Hello");
-		System.out.println("Hello");
 		return true;
 	}
 
